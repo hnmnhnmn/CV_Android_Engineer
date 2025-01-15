@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/pdf/resume.pdf
 
-url: https://hnmnhnmn.github.io
+url: https://hnmnhnmn.github.io/CV_Android_Engineer/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
