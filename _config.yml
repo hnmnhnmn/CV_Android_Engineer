@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/pdf/resume.pdf
+resume-url: /CV_Android_Engineer/assets/pdf/resume.pdf
 
-url: https://hnmnhnmn.github.io/CV_Android_Engineer/
+url: https://hnmnhnmn.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -45,7 +45,7 @@ authors:
     name: Nguyen Van Huy
     bio: A Man who loves writing code
     external-image: false
-    picture: assets/images/profile.jpeg
+    picture: /CV_Android_Engineer/assets/images/profile.jpeg
   
 
 # do you want a larger site? change the option below
